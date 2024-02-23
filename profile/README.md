@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://eslint.style/logo.svg" width="150">
+<img src="./zaman_logo.png" width="150">
 </p>
 
 <h1 align="center">Zaman</h1>
