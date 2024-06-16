@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://thezaman.app">Website</a> |
+<a href="https://zaman.app">Website</a> |
 <a href="https://t.me/zamanapp">Telegram Community</a> |
 <a href="#">Roadmap</a>
 </p>
