@@ -8,6 +8,7 @@
 <p align="center">
 <a href="https://zaman.app">Website</a> |
 <a href="https://t.me/zamanapp">Telegram Community</a> |
+<a href="https://x.com/zaman_hq">X</a> |
 <a href="#">Roadmap</a>
 </p>
 
